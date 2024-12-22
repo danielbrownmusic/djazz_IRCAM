@@ -585,30 +585,30 @@
 			}
  ],
 		"dependency_cache" : [ 			{
+				"name" : "djazz.tempo_to_ms.maxpat",
+				"bootpath" : "~/Documents/Max 8/Projects/djazz_IRCAM/patchers/utils",
+				"patcherrelativepath" : "../utils",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "djazz.view.manual_tap.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/djazz/patchers/view",
+				"bootpath" : "~/Documents/Max 8/Projects/djazz_IRCAM/patchers/view",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "djazz.view.metronome.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/djazz/patchers/view",
+				"bootpath" : "~/Documents/Max 8/Projects/djazz_IRCAM/patchers/view",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "djazz.view.remote_tap.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/djazz/patchers/view",
+				"bootpath" : "~/Documents/Max 8/Projects/djazz_IRCAM/patchers/view",
 				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "djazz_tempo_to_ms.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/djazz/patchers/tools/conversion",
-				"patcherrelativepath" : "../tools/conversion",
 				"type" : "JSON",
 				"implicit" : 1
 			}

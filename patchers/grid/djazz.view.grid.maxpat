@@ -46,7 +46,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "int" ],
 					"patching_rect" : [ 412.0, 409.0, 148.0, 22.0 ],
-					"text" : "t 0 i"
+					"text" : "t i 0"
 				}
 
 			}
@@ -106,7 +106,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 120.0, 461.0, 257.0, 22.0 ],
-					"text" : "playing 19 24 1"
+					"text" : "waiting 0 24 1"
 				}
 
 			}
@@ -138,7 +138,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 533.0, 707.0, 100.0, 50.0 ],
-					"text" : "0 1 0",
+					"text" : "1 0 0",
 					"varname" : "textedit"
 				}
 
@@ -1581,7 +1581,7 @@
 							"parameter_invisible" : 1,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "grid_bar",
-							"parameter_mmax" : 0.0,
+							"parameter_mmax" : 23.0,
 							"parameter_modmode" : 0,
 							"parameter_shortname" : "grid_bar",
 							"parameter_type" : 3
